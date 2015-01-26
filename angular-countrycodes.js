@@ -1,4 +1,4 @@
-angular.module('mcwebb.countryCodes', [])
+angular.module('mcwebb.countrycodes', [])
 .constant('CountryCodesData', [
     {
         "name":"Afghanistan (‫افغانستان‬‎)",

@@ -5,13 +5,13 @@ Simple AngularJs module to provide telephone country code data
 ### Install with Bower
 ```bash
 # from the terminal at the root of your project
-bower install angular-countryCodes --save
+bower install angular-countrycodes --save
 ```
 If you're not using wiredep you'll obviously also need to include the script in your html.
 
 ### Add to your module deps
 ```js
-angular.module('xxxx', ['mcwebb.countryCodes'])
+angular.module('xxxx', ['mcwebb.countrycodes'])
 ```
 
 ## Example Use
