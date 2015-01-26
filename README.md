@@ -11,7 +11,7 @@ If you're not using wiredep you'll obviously also need to include the script in 
 
 ### Add to your module deps
 ```js
-angular.module('xxxx', ['mcwebb.cognalys'])
+angular.module('xxxx', ['mcwebb.countryCodes'])
 ```
 
 ## Example Use
