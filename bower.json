@@ -1,7 +1,6 @@
 {
   "name": "angular-countryCodes",
   "description": "A simple AngularJs module to provide telephone country code data",
-  "version": "0.1",
   "main": "./angular-countryCodes.js",
   "ignore": [],
   "author": "Matthew Webb",
